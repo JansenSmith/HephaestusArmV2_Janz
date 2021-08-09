@@ -42,13 +42,13 @@
 	<vitamins>
 		<vitamin>
 			<name>electroMechanical</name>
-			<type>roundMotor</type>
-			<id>WPI-gb37y3530-50en</id>
+			<type>LewanSoulMotor</type>
+			<id>lx_224</id>
 		</vitamin>
 		<vitamin>
 			<name>shaft</name>
-			<type>dShaft</type>
-			<id>WPI-gb37y3530-50en</id>
+			<type>LewanSoulHorn</type>
+			<id>round_m3_bolts</id>
 		</vitamin>
 
 	</vitamins>
@@ -165,7 +165,7 @@
 
 	</vitamins>
 	<passive>false</passive>
-	<mass>0.020800000000000003</mass>
+	<mass>0.0208</mass>
 	<centerOfMassFromCentroid>	<x>0.0</x>
 	<y>0.0</y>
 	<z>0.0</z>
@@ -463,7 +463,7 @@
 	<roty>-0.0</roty>
 	<rotz>-0.0</rotz>
 </baseToZframe>
-	<mass>0.45000000000000007</mass>
+	<mass>0.17000000000000004</mass>
 	<centerOfMassFromCentroid>	<x>0.0</x>
 	<y>0.0</y>
 	<z>0.0</z>
